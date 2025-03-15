@@ -1,0 +1,22 @@
+
+	Studenți bursieri
+
+Ați primit o listă cu studenții de la Electronică ce conține numele și mediile lor. Să se determine câți din studenți vor lua bursă de merit și câți bursă de performanță. Pentru ca un student să ia bursă de performanță trebuie să fie integralist și sa aibă media mai mare sau egală de 9.80. Pentru bursă de merit, studentul trebuie să fie integralist și să aibă media între 8 și 9.80.
+
+Date de intrare
+Pe prima linie se află un număr n, reprezentând numărul de studenți. n este maxim 65535. Pe următoarele n linii se află un nume, un prenume, și 5 note ce se vor media, toate separate prin spații.
+
+Date de ieșire
+La ieșire se vor afișa două numere întregi: numărul de bursieri cu bursă de merit și numărul de bursieri cu bursă de performanță.
+
+Exemplu
+Intrare:
+
+4
+Andrei Vasile 8 8 6 9 8
+Ghita vasile 10 10 10 9 10
+Ioana Oana 10 3 10 10 10
+Andrei Ioana 9 9 8 9 9
+Ieșire:
+
+1 1
